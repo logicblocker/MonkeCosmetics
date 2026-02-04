@@ -22,5 +22,5 @@ jobs:
       with:
         tag: ${{ inputs.tag }}
         token: ${{ secrets.GITHUB_TOKEN }}
-        human-name: Gorilla Cosmetics
+        human-name: Monke Cosmetics
 
